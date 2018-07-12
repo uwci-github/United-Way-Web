@@ -1,6 +1,6 @@
 # BoardServeIndy
 
-# Configure
+### Configure
 
 - Set up the following accounts and copy the keys to the `settings.dev.json` file:
 -- Facebook login
@@ -11,18 +11,18 @@
 -- Bit.ly
 -- Create a random signup token
 
-# Install and Run
+### Install and Run
 
 ```
 $ meteor npm i
 $ meteor
 ```
 
-# Deploy
+### Deploy
 
 - Any merges to master will trigger a deploy to staging. 
 - Once staging is verified as working, you can promote to prod on the heroku website or using `heroku pipelines:promote`
 
-# Deploy Debugging
+### Deploy Debugging
 
 - `heroku logs` is your friend.
