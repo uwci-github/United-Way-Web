@@ -2,14 +2,14 @@
 
 ### Configure
 
-- Set up the following accounts and copy the keys to the `settings.dev.json` file:
--- Facebook login
--- Google login
--- LinkedIn login
--- Algolia
--- Cloudinary
--- Bit.ly
--- Create a random signup token
+* Set up the following accounts and copy the keys to the `settings.dev.json` file:
+  * Facebook login
+  * Google login
+  * LinkedIn login
+  * Algolia
+  * Cloudinary
+  * Bit.ly
+  * Create a random signup token
 
 ### Install and Run
 
