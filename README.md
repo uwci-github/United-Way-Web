@@ -2,7 +2,7 @@
 
 ### Configure
 
-* Set up the following accounts and copy the keys to the `settings.dev.json` file:
+* Using `example.settings.json` as a template, set up the following accounts and save it as `settings.dev.json`:
   * Algolia (https://www.algolia.com/)
   * Cloudinary (https://cloudinary.com/)
   * Bitly (https://bitly.com/)
