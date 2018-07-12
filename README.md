@@ -26,3 +26,7 @@ $ meteor
 ### Deploy Debugging
 
 - `heroku logs` is your friend.
+
+### Questions
+
+Send questions to `benwencke@gmail.com`
