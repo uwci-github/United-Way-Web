@@ -1,20 +1,23 @@
 {
-  "Get the values for this file from mike, rename this file to settings.dev.json and then launch with npm start :)": false,
-  "facebook": {
-    "id": "",
-    "secret": ""
-  },
-  "google": {
-    "id": "",
-    "secret": ""
-  },
-  "linkedin": {
-    "id": "",
-    "secret": ""
-  },
+  "Rename this file to settings.dev.json": false,
   "algolia": {
     "applicationId": "",
     "searchKey": "",
     "adminKey": ""
-  }
+  },
+  "cloudinary": {
+    "apiKey": "",
+    "apiSecret": "",
+    "url": ""
+  },
+  "bitly": {
+    "token": ""
+  },
+  "public": {
+    "cloudinary": {
+      "cloudName": "",
+      "uploadPreset": ""
+    }
+  },
+  "signupToken": ""
 }
